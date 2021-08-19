@@ -1,0 +1,51 @@
+/* Cabeçalho  */
+.container{
+    margin-left: 12%;
+}
+.card{
+    height: 100%;
+}
+
+.MainBar {
+    margin-left: 1.5rem;
+    padding-top: 0.2rem;
+}
+
+#buttonMain {
+    margin-bottom: 0.3rem;
+    margin-left: 0.3rem;
+    height: 1.95rem;
+
+    border-radius: 5px;
+}
+
+.inputMain {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+
+    border-color: rgba(127, 137, 161, 0.25);
+    border-radius: 10px;
+}
+
+.FinalPage {
+    background-color: rgba(5, 13, 37, 0.911);
+    height: 10rem;
+}
+.footerH1{
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+
+
+}
+.footerP{
+    color: #ffffff;
+    font-family: 'Raleway';
+
+}
+.footer{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-size: 20px;
+
+}

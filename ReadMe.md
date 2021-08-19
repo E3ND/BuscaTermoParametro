@@ -1,0 +1,1 @@
+Digite os nomes dos termos por inteiro.
